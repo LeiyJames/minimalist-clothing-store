@@ -235,14 +235,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Icons**: Heroicons for consistent iconography
 - **Fonts**: Google Fonts for typography
 
-## 📞 Contact
-
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
-- **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
-
----
-
-**Built with ❤️ using Next.js and modern web technologies**
-
 > This project demonstrates modern e-commerce development practices with a focus on performance, user experience, and maintainable code.
